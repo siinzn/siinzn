@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @siinzn
-- 👀 I’m interested in building softwares
-- 🌱 I’m currently in university learning computer science and teaching myself MERN Stack
-- 💞️ I’m looking to collaborate on creative projects
-- 📫 You can reach me through Instagram or Twitter!
-- ⚡ Fun fact: Firstly, I wanted to do medicine and I was forced to choose computer science :) 
+👋 Hi, I’m @siinzn
+💻 Passionate Computer Science student specializing in C++ systems programming, graphics programming, and modern web development
+🚀 Currently in my second year at the University of Wollongong in Dubai, building everything from physics simulators in C++ to interactive web apps in Next.js
+🤝 Open to collaborating on creative and challenging projects
+📫 Reach me via LinkedIn or Twitter
+⚡ Fun fact: I once planned to study medicine—life had other plans, and now I code instead!
 
 <!---
 siinzn/siinzn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
