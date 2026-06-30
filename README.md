@@ -1,6 +1,6 @@
 # Muhammad Sinan
 
-Systems Programmer · Backend Developer exploring · Graphics programming
+Systems Programmer · Backend Developer · Graphics programming
 
 C++ · Python · JavaScript
 
